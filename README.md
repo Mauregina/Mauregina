@@ -1,4 +1,8 @@
-### Hi there 👋
+## 💜 Hi, my name is <strong>Maura Regina!</strong>
+
+🔭 I love coding! I’m currently working as a QA Engineer focusing on digital TV API testing using Postman.
+
+🌱 I’m currently studying data science and artificial intelligence. I am also upgrading my front-end skills by learning Angular and React.
 
 <!--
 **Mauregina/Mauregina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
