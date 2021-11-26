@@ -10,4 +10,5 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
