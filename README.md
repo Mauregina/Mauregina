@@ -6,7 +6,7 @@
 
 ⚡ I am doing a MBA in data science and artificial intelligence. 
 
-🔭 As a Python lover, I have been devepoling some personal projects using this language and Postgre database.
+🔭 As a Python lover, I have been developing some personal projects using this language and Postgre database.
 
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
