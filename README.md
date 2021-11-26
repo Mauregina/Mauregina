@@ -1,6 +1,6 @@
 ## 💜 Hi, my name is <strong>Maura Regina!</strong>
 
-🔭 I love coding! I’m currently working as a QA Engineer focusing on API testing using Postman.
+🔭 I love coding! I’m currently working as a QA Engineer focusing on API testing using Postman and JavaScript in the request scripts.
 
 🌱 I am also upgrading my QA skills by learning new testing tools such as Cumcumber, Selenium, Cypress, etc.
 
