@@ -6,3 +6,8 @@
 
 ⚡ I am currently doing a MBA in data science and artificial intelligence. 
 
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
