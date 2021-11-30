@@ -1,4 +1,6 @@
-##  Welcome to my github page. My name is <strong>Maura Regina</strong> 💜
+
+#  Welcome to my github page! ![image](https://user-images.githubusercontent.com/8762879/144100410-4accadbd-3205-409b-bc69-d4ed02743cbb.png)
+
 
 🔭 I am currently working as a QA Engineer focusing on API testing using Postman and JavaScript in the request scripts.
 
