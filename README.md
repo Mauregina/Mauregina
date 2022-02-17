@@ -4,7 +4,7 @@
 
 🔭 I am currently working as a QA Engineer focusing on API testing using Postman and JavaScript in the request scripts.
 
-🌱 I am also upgrading my QA skills by learning new testing tools such as Cucumber, Selenium, Cypress, etc.
+🌱 I am also upgrading my QA skills by learning new testing tools such as Pytest and Selenium Web Driver.
 
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
