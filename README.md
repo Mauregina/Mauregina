@@ -2,7 +2,7 @@
 #  Welcome to my github page! ![image](https://user-images.githubusercontent.com/8762879/144100410-4accadbd-3205-409b-bc69-d4ed02743cbb.png)
 
 
-🔭 I am currently working as a QA Engineer focusing on API testing using Postman and JavaScript in the request scripts.
+🔭 I am currently working as a QA Analyst focusing on API testing using Postman and JavaScript in the request scripts.
 
 🌱 I am also upgrading my QA skills by learning new testing tools such as Pytest and Selenium Web Driver.
 
@@ -12,7 +12,7 @@
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) 
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)<br>
   
-  🖍 I am doing a MBA in data science and artificial intelligence. 
+  🖍 I am doing a MBA in Data Science and Artificial Intelligence. 
   
   📐 As a Python lover, I have been developing some personal projects using this language and Postgre database.
   
