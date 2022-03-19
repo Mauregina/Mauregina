@@ -14,7 +14,7 @@
   
   🖍 I am doing a MBA in Data Science and Artificial Intelligence. 
   
-  📐 As a Python lover, I have been developing some personal projects using this language and Postgre database.
+  📐 As a code lover, I have been developing some personal projects using Python, Django and Postgre database. Also, I have been developing some Web Projects using HTML, CSS e Javascript.
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![PostGre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
