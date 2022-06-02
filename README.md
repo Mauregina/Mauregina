@@ -2,7 +2,7 @@
 #  Welcome to my github page! ![image](https://user-images.githubusercontent.com/8762879/144100410-4accadbd-3205-409b-bc69-d4ed02743cbb.png)
 
 
-🔭 I am currently working as a QA Analyst focusing on API testing using Postman.
+🔭 I worked as a QA Analyst focusing on API testing using Postman.
 
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
