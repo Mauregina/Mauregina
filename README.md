@@ -1,11 +1,6 @@
 
 #  Welcome to my github page! ![image](https://user-images.githubusercontent.com/8762879/144100410-4accadbd-3205-409b-bc69-d4ed02743cbb.png)
 
-
-🔭 I worked as a QA Analyst focusing on API testing using Postman.
-
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
  📐 As a software developer, I have been doing some personal projects using Python and JavaScript languages.
  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,9 +10,14 @@
   ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-🌱 I am also upgrading my QA skills by learning new testing tools such as Pytest and Selenium Web Driver.
+🔭 I worked as a QA Analyst focusing on API testing using Postman and I was also upgrading my QA skills by learning new testing tools such as Pytest and Selenium Web Driver.
 
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) 
+  
+🌱 I have experience using SQL and I have worked with many database such as Oracle and MongoDB.
+![MongoDB] https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+
   
   🖍 I am doing a MBA in Data Science and Artificial Intelligence. 
   
