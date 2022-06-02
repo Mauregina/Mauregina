@@ -16,7 +16,8 @@
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) 
   
 🌱 I have experience using SQL and I have worked with many database such as Oracle and MongoDB.
-![MongoDB] https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
   
   🖍 I am doing a MBA in Data Science and Artificial Intelligence. 
