@@ -1,7 +1,7 @@
 
 #  Welcome to my github page! ![image](https://user-images.githubusercontent.com/8762879/144100410-4accadbd-3205-409b-bc69-d4ed02743cbb.png)
 
- 📐 As a software developer, I have been working in projects using Python and JavaScript languages.
+ 📐 As a software developer, I have been working in backend projects using Python, Node.js and API development. I have been also doing some front end development using React framework and Material-UI.
  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
