@@ -1,5 +1,5 @@
 
-<h1> Welcome to my github page <img src="https://user-images.githubusercontent.com/8762879/144100410-4accadbd-3205-409b-bc69-d4ed02743cbb.png"></h1>
+<strong> WELCOME TO MY GITHUB PAGE</strong> <img src="https://user-images.githubusercontent.com/8762879/144100410-4accadbd-3205-409b-bc69-d4ed02743cbb.png" width="30">
 
 <strong> Skills </strong>
  
