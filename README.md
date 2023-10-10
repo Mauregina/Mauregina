@@ -1,7 +1,7 @@
 
 #  Welcome to my github page! <img src="https://user-images.githubusercontent.com/8762879/144100410-4accadbd-3205-409b-bc69-d4ed02743cbb.png" />
 
- ### Skills
+ ## Skills
  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -15,11 +15,11 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
-### Studing
+## Studing
 
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) 
 
-### Find me elsewhere.
+## Find me elsewhere.
 <p align="left">
   <a href="mailto:mauraregina@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
